@@ -21,6 +21,12 @@ This page is where I keep what I build, what I learn, and the questions I haven'
 
 ## Projects
 
+### Snake Lab
+
+A small, playable Snake game with keyboard, swipe, and D-pad controls.
+
+[Play](https://yangshangkun2006.github.io/snake-lab/) · [Source](https://github.com/yangshangkun2006/snake-lab)
+
 ### This page
 
 A custom GitHub profile with hand-written SVG, a light/dark theme, and no template.
