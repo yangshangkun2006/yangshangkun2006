@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" alt="Yang Shangkun — Open-source builder focused on AI-native developer tooling" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light-v2.svg">
+  <img src="assets/hero-light-v2.svg" alt="Yang Shangkun — Open-source builder focused on AI-native developer tooling" width="100%">
 </picture>
 
 **Open-source builder · AI-native developer tooling**
