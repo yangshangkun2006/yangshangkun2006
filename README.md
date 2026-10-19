@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light-v3.svg">
-  <img src="assets/hero-light-v3.svg" alt="Yang Shangkun — Student, learning by building" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/yangshangkun2006/yangshangkun2006@main/assets/hero-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/yangshangkun2006/yangshangkun2006@main/assets/hero-light-v3.svg">
+  <img src="https://cdn.jsdelivr.net/gh/yangshangkun2006/yangshangkun2006@main/assets/hero-light-v3.svg" alt="Yang Shangkun — Student, learning by building" width="100%">
 </picture>
 
 **Student · Learning by building**
