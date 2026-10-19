@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="heroDarkTitle heroDarkDesc">
+  <title id="heroDarkTitle">Yang Shangkun — Open-source builder</title>
+  <desc id="heroDarkDesc">Dark banner with the name Yang Shangkun, the role Open-source builder, and the line AI-native developer tooling.</desc>
+
+  <rect width="1280" height="360" fill="#0D1117"/>
+
+  <g stroke="#30363D" stroke-width="1" opacity="0.30">
+    <path d="M0 90H1280M0 180H1280M0 270H1280"/>
+    <path d="M320 0V360M640 0V360M960 0V360"/>
+  </g>
+
+  <rect width="1280" height="6" fill="#2EA043"/>
+
+  <g transform="translate(72 56)">
+    <rect width="52" height="52" rx="10" fill="#161B22" stroke="#30363D"/>
+    <text x="26" y="34" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#2EA043">YS</text>
+  </g>
+
+  <text x="1208" y="70" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="13" fill="#484F58">github.com/yangshangkun2006</text>
+
+  <text x="930" y="300" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="200" font-weight="700" fill="#1C2128" aria-hidden="true">&lt;/&gt;</text>
+
+  <text x="72" y="180" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="1.5" fill="#E6EDF3">YANG SHANGKUN</text>
+
+  <text x="74" y="224" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#8B949E">Open-source builder · AI-native developer tooling</text>
+
+  <text x="74" y="276" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14" letter-spacing="2.2" fill="#2EA043">SMALL TOOLS. SHARP EDGES. REPRODUCIBLE WORKFLOWS.</text>
+</svg>
