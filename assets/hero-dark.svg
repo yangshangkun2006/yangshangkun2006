@@ -9,6 +9,8 @@
     <path d="M320 0V360M640 0V360M960 0V360"/>
   </g>
 
+  <rect x="0" y="0" width="820" height="360" fill="#0D1117"/>
+
   <rect width="1280" height="6" fill="#2EA043"/>
 
   <g transform="translate(72 56)">
