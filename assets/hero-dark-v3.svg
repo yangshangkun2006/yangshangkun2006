@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="heroDarkTitle heroDarkDesc">
-  <title id="heroDarkTitle">Yang Shangkun — Open-source builder</title>
-  <desc id="heroDarkDesc">Dark banner with the name Yang Shangkun, the role Open-source builder, and the line AI-native developer tooling.</desc>
+  <title id="heroDarkTitle">Yang Shangkun — Student</title>
+  <desc id="heroDarkDesc">Dark banner with the name Yang Shangkun and the line Student, learning by building.</desc>
 
   <rect width="1280" height="360" fill="#0D1117"/>
 
@@ -24,5 +24,5 @@
 
   <text x="72" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="1.5" fill="#E6EDF3">YANG SHANGKUN</text>
 
-  <text x="74" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#8B949E">Open-source builder · AI-native developer tooling</text>
+  <text x="74" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#8B949E">Student · Learning by building</text>
 </svg>

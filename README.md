@@ -1,46 +1,39 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light-v2.svg">
-  <img src="assets/hero-light-v2.svg" alt="Yang Shangkun — Open-source builder focused on AI-native developer tooling" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light-v3.svg">
+  <img src="assets/hero-light-v3.svg" alt="Yang Shangkun — Student, learning by building" width="100%">
 </picture>
 
-**Open-source builder · AI-native developer tooling**
+**Student · Learning by building**
 
-> Small tools. Sharp edges. Reproducible workflows.
+> Curious about code, design, and the space between them.
 
-I build **small, sharp tools** for people who ship code with AI.  
-Less magic, more reproducible workflows.  
-Most AI tooling is demo-shaped; I care about what survives Monday.
+I'm a student figuring things out by making them.  
+This page is where I keep what I build, what I learn, and the questions I haven't answered yet.
 
 ---
 
 ## Now
 
-- Exploring a **repo-readiness checker** for AI coding agents as the first tool.
-- Writing build notes as I go.
-- Open to collaborations on developer tooling and agent workflows.
+- **Learning** — by building small things and breaking them.
+- **Exploring** — code, design, and how ideas become something you can use.
+- **Open to** — student collaborations, internships, and interesting conversations.
 
-**Exploring:** LLM agents · CLI design · developer experience
+## Projects
 
-## How I work
+### This page
 
-- **Small over big.** One tool, one job.
-- **Reproducible over impressive.** If it can't be rerun, it doesn't count.
-- **Boring infrastructure, sharp tools.**
-- **Write down what breaks.** Failure modes are part of the product.
+A custom GitHub profile with hand-written SVG, a light/dark theme, and no template.
 
-## First project
+[View the source](https://github.com/yangshangkun2006/yangshangkun2006)
 
-No public repos yet. I'm scoping one narrow, annoying problem in AI-assisted development to turn into a small open-source tool.
+More projects are on the way.
 
-Have one? [Open an issue](https://github.com/yangshangkun2006/yangshangkun2006/issues) and tell me what breaks.
+## About
 
-## Build log
-
-| Date | Note |
-| --- | --- |
-| 2026-10-19 | Profile v1. Scoping the first tool. |
+I like clean interfaces, clear explanations, and the moment something finally works.  
+Still learning. Still making things.
 
 ## Connect
 
-[Follow the build](https://github.com/yangshangkun2006) · [Open an issue](https://github.com/yangshangkun2006/yangshangkun2006/issues) · [Build log](#build-log)
+[GitHub](https://github.com/yangshangkun2006) · [Say hi](https://github.com/yangshangkun2006/yangshangkun2006/issues)
