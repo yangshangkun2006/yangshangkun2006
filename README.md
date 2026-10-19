@@ -6,6 +6,8 @@
 
 **Open-source builder · AI-native developer tooling**
 
+> Small tools. Sharp edges. Reproducible workflows.
+
 I build **small, sharp tools** for people who ship code with AI.  
 Less magic, more reproducible workflows.  
 Most AI tooling is demo-shaped; I care about what survives Monday.

@@ -22,9 +22,7 @@
 
   <text x="930" y="300" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="200" font-weight="700" fill="#1C2128" aria-hidden="true">&lt;/&gt;</text>
 
-  <text x="72" y="180" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="1.5" fill="#E6EDF3">YANG SHANGKUN</text>
+  <text x="72" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="1.5" fill="#E6EDF3">YANG SHANGKUN</text>
 
-  <text x="74" y="224" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#8B949E">Open-source builder · AI-native developer tooling</text>
-
-  <text x="74" y="276" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14" letter-spacing="2.2" fill="#2EA043">SMALL TOOLS. SHARP EDGES. REPRODUCIBLE WORKFLOWS.</text>
+  <text x="74" y="240" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#8B949E">Open-source builder · AI-native developer tooling</text>
 </svg>
